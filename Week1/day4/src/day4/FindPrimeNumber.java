@@ -1,3 +1,4 @@
+package day4;
 
 public class FindPrimeNumber {
 
@@ -20,3 +21,4 @@ public class FindPrimeNumber {
 		}
 	}
 }
+

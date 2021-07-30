@@ -1,4 +1,6 @@
+package day4;
 import java.util.Arrays;
+
 
 public class FindPalindrome {
 
